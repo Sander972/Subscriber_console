@@ -1,4 +1,4 @@
-# Subscriber_vue
+# Subscriber_console
 
 Console app that subscribe to a topic and print the mqtt msg on the screen
 
